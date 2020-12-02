@@ -1,6 +1,6 @@
 package com.company;
 
-public class IllegalFields {
+public class A1IllegalFields {
     public static void main(String[] args) {
           
         int int = 15;
