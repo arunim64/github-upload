@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class result {
+public class ResultBasedOnMerit {
     public static void main(String[] args) {
         System.out.println("Please enter your Grade:");
         Scanner sc = new Scanner(System.in);
