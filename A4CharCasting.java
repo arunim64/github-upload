@@ -1,6 +1,6 @@
 package com.company;
 
-public class CharCasting {
+public class A4CharCasting {
     public static void main(String[] args) {
         char num = 65;
         System.out.println(num);
