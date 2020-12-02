@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class LeapYear {
+public class A6LeapYear {
     public static void main(String[] args) {
         System.out.print("Enter the Year:");
         Scanner Y = new Scanner(System.in);
