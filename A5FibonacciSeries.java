@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class FibonacciSeries {
+public class A5FibonacciSeries {
     public static void main(String[] args) {
         System.out.print("ENTER THE NUMBER OF TERMS:");
         Scanner sc = new Scanner(System.in);
