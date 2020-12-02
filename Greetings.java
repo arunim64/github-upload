@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class ProblemSet1Q3 {
+public class Greetings {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your name:");
