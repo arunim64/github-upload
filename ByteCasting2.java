@@ -2,7 +2,7 @@ package com.company;
 
 public class ByteCasting2 {
     public static void main(String[] args) {
-        byte num = 120;
+        byte num = 130;
         System.out.println(num);
     }
 }
