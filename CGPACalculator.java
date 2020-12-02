@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class ProblemSet1Q2 {
+public class CGPACalculator {
     public static void main(String[] args) {
         System.out.println("Calculating cgpa using marks out of 100");
         Scanner sc = new Scanner(System.in);
