@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class ProblemSet1Q1 {
+public class SumOfThreeNumbers {
     public static void main(String[] args) {
         System.out.println("Sum of three numbers");
         Scanner sc = new Scanner(System.in);
