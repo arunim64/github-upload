@@ -2,7 +2,7 @@
 // ASSIGNMENT 2
 package com.company;
 
-public class ByteCasting {
+public class A2ByteCasting {
     public static void main(String[] args) {
         byte  num = (byte)130;
         System.out.println(num);
